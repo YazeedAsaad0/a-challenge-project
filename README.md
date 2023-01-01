@@ -1,2 +1,3 @@
 # a challenge project
- a poject i thought it would be a challenge foe me 
+ a project i thought it would be a challenge for me 
+ i finished the project in one day.
